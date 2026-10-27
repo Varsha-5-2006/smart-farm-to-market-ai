@@ -1,0 +1,6 @@
+{
+  "name": "Smart Farm-to-Market AI",
+  "description": "Fair Prices. Smarter Farming. Stronger Rural Communities. An intelligent agricultural ecosystem connecting Indian farmers directly to buyers with real mandi prices, AI price suggestions, surplus mitigation, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
