@@ -73,7 +73,7 @@ Always check the displayed source and observation date. Sample records must not 
 Clone this repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Varsha-5-2006/smart-farm-to-market-ai.git
 cd smart-farm-to-market-ai
 ```
 
