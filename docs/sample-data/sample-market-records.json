@@ -1,0 +1,30 @@
+
+[
+  {
+    "crop": "Tomato",
+    "market": "Chennai",
+    "state": "Tamil Nadu",
+    "price_per_quintal": 2200,
+    "unit": "INR/quintal",
+    "record_type": "sample",
+    "date": "2026-10-20"
+  },
+  {
+    "crop": "Paddy",
+    "market": "Thanjavur",
+    "state": "Tamil Nadu",
+    "price_per_quintal": 2450,
+    "unit": "INR/quintal",
+    "record_type": "sample",
+    "date": "2026-10-20"
+  },
+  {
+    "crop": "Onion",
+    "market": "Coimbatore",
+    "state": "Tamil Nadu",
+    "price_per_quintal": 2800,
+    "unit": "INR/quintal",
+    "record_type": "sample",
+    "date": "2026-10-20"
+  }
+]
