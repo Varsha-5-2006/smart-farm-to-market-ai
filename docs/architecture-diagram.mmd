@@ -1,0 +1,9 @@
+flowchart TD
+    U[Farmer / Buyer / Admin] --> F[React Frontend]
+    F --> API[Node.js API Server]
+    API --> M[Market Price and Fair Price]
+    API --> AI[Gemini AI Assistant]
+    API --> I[Inventory, Orders and Surplus]
+    M --> D[Data Sources / Storage]
+    AI --> D
+    I --> D
